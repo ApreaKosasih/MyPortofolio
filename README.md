@@ -3,7 +3,7 @@
 eduNitas mobile apps
 
 ### Status
-Published
+Done - Published
 
 ### Desc
 Edunitas is a digital platform that provides various information about the world of education,
@@ -21,7 +21,43 @@ https://play.google.com/store/apps/details?id=com.edunitas
 
 ___
 
+### Project name
+African Renaissance Library (Responsive Web App)
 
+### Status
+Done - Developed
+
+### Desc
+African Renaissance Library
+
+### Responsibility
+UI/UX design
+
+### Apps Link
+#### xd desktop view
+https://xd.adobe.com/view/60f29eb0-d230-4716-b948-fa6bf1ff39af-35a1/
+#### xd mobile view
+https://xd.adobe.com/view/7cf8a513-6579-4205-b962-eb95aa9995bd-29ab/
+
+___
+
+### Project name
+Vigor patient monitor embedded app
+
+### Status
+Done - Developed
+
+### Desc
+Vigor is a portable device vital sign monitor
+
+### Responsibility
+UI/UX design and layout implementation (c language)
+
+### Prototype Link
+#### 7-inch device
+https://xd.adobe.com/view/52a98c75-9a0c-456b-97c7-21733ee54af9-07fa/
+#### 5-inch device
+https://xd.adobe.com/view/51d979dc-a31d-4b08-7748-587c76ecc355-27e8/
 ___
 
 ### Project name
