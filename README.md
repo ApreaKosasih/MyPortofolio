@@ -55,7 +55,7 @@ eduLearning mobile apps
 ### Status
 Ongoing - Developed
 ### Desc
-Edunitas is a digital platform E-Learning Portal.
+eduLearning is a digital platform E-Learning Portal.
 Time, distance and space are no longer obstacles
 to interacting with each other in learning.
 ### Responsibility
