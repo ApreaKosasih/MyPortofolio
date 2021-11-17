@@ -8,6 +8,13 @@ of course there are some works that I cannot show related to the NDA between me 
 * Programming
 * Graphic Design Assets
 
+## Tools and programming language I use :
+* Adobe XD
+* Adobe Illustrator & Photoshop
+* VSCode
+* Flutter Framework
+* LVGL graphic libray ( C language )
+
 ### Project name
 eduNitas mobile apps
 ### Status
