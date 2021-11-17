@@ -1,4 +1,7 @@
 # My Portofolio
+hello, I am aprea kosasih and this is my portfolio, here I will show some of the work that I have done,
+of course there are some works that I cannot show related to the NDA between me and the client.
+
 ### Project name
 eduNitas mobile apps
 
